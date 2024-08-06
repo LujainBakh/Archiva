@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: 'https://github.com/LujainBakh/archiva',
   footer: {
     text: 'PMO documentation for © Solutions By 42',
-  },
+  }
 }
 
 export default config
