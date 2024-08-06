@@ -6,7 +6,7 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/LujainBakh/archiva',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/LujainBakh/archiva',
   footer: {
     text: 'PMO documentation for © Solutions By 42',
   },
