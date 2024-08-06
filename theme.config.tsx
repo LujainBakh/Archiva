@@ -1,15 +1,8 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
-import Image from 'next/image';
-import logo from './archivalogo.png';
 
 const config: DocsThemeConfig = {
-  logo: (
-    <span style={{ display: 'flex', alignItems: 'center' }}>
-      <Image src={logo} alt="Archiva Logo" width={30} height={30} />
-      <span style={{ marginLeft: '8px' }}>Archiva</span>
-    </span>
-  ),
+  logo: <span>Archiva</span>,
   project: {
     link: 'https://github.com/shuding/nextra-docs-template',
   },
