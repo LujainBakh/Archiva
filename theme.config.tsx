@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   (
     <span style={{ display: 'flex', alignItems: 'center' }}>
-      <Image src={archiva.png} alt="Archiva Logo" width={30} height={30} />
+      <Image src={archivalogo.png} alt="Archiva Logo" width={30} height={30} />
       <span style={{ marginLeft: '8px' }}>Archiva</span>
     </span>
   ),
